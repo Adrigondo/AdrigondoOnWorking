@@ -1,0 +1,15 @@
+.social-media{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.social-media>div>a{
+    display: flex;
+    align-items: center;
+}
+.social-media img{
+    height: 1.2rem;
+    width: 1.2rem;
+    padding: 0;
+    margin: 0px 5px;
+}
