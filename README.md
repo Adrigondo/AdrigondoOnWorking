@@ -1,7 +1,11 @@
-<video autoplay="autoplay" loop="loop" muted="muted" playsinline="">
+<!-- <video autoplay="autoplay" loop="loop" muted="muted" playsinline="">
       <source src="Banner Greeting.webm" type="video/webm">
       <source src="Banner Greeting.mov" type="video/quicktime">
 </video>
+<a href="Banner Greeting.webm" title="Adrigondo greeting"><img src="{image-url}" alt="Buenos días, tardes, noches, soy Adrian" /></a> -->
+
+<img src="Banner Greeting.gif" alt="Buenos días tardes noches soy Adrian">
+
 <h3>
     ¿Quién es Adrigondo?
 </h3>
