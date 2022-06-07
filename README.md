@@ -1,6 +1,7 @@
-<h1>
-    Buenos días, tardes, noches, soy Adrian!
-</h1>
+<video autoplay="autoplay" loop="loop" muted="muted" playsinline="">
+      <source src="Banner Greeting.webm" type="video/webm">
+      <source src="Banner Greeting.mov" type="video/quicktime">
+</video>
 <h3>
     ¿Quién es Adrigondo?
 </h3>
